@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.chroma_store/
+.DS_Store
+node_modules/
+frontend/dist/

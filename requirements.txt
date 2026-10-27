@@ -1,0 +1,17 @@
+# --- Web framework ---
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# --- PDF extraction ---
+PyMuPDF>=1.23.0
+
+# --- Embeddings ---
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# --- Vector store ---
+chromadb>=0.4.0
+
+# --- HTTP client (for Ollama) ---
+requests>=2.31.0
